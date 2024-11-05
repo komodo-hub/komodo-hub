@@ -1,10 +1,17 @@
 # Komodo Hub
 
-A collection of Github Repos which can be deployed with Komodo
+A collection of Github Repo source compose files which can be deployed with Komodo
 
-## Repos
+## Apps
 
-- [**Authentik** - SSO/OIDC Auth service](https://github.com/mbecker20/deploy_authentik)
-- [**Grafana + Tempo + Loki** - Collect and view application logs](https://github.com/mbecker20/deploy_grafana)
-- [**Vector** - Collect / parse / forward docker logs to Loki](https://github.com/mbecker20/deploy_vector)
-- [**Vector Alert Server** - Forward Komodo alerts to Loki using custom Alerter](https://github.com/mbecker20/deploy_vector_komodo_alert)
+### SSO
+- [**Authentik** - SSO/OIDC Auth service](https://github.com/komodo-hub/deploy-authentik)
+
+### Media
+- [**Jellyfin** - Stream movies and tv shows](https://github.com/komodo-hub/deploy-jellyfin)
+- [**Immich** - Remote photo backup and view](https://github.com/komodo-hub/deploy-immich)
+
+### Logging
+- [**Grafana + Tempo + Loki** - Collect and view application logs](https://github.com/komodo-hub/deploy-grafana)
+- [**Vector** - Collect / parse / forward docker logs to Loki](https://github.com/komodo-hub/deploy-vector)
+- [**Vector Alert Server** - Forward Komodo alerts to Loki using custom Alerter](https://github.com/komodo-hub/deploy-vector-komodo-alert)
