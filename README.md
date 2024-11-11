@@ -7,6 +7,7 @@ A collection of Github Repo source compose files which can be deployed with Komo
 ### Utility
 - [**Authentik** - SSO/OIDC Auth service](https://github.com/komodo-hub/deploy-authentik)
 - [**Gitea** - Git provider + more](https://github.com/komodo-hub/deploy-gitea)
+- [**Step CA** - Private online TLS certificate authority](https://github.com/komodo-hub/deploy-step-ca)
 
 ### Media
 - [**Jellyfin** - Stream movies and tv shows](https://github.com/komodo-hub/deploy-jellyfin)
