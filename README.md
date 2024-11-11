@@ -1,6 +1,6 @@
 # Komodo Hub
 
-A collection of applications / compose files which can be deployed with Komodo.
+A collection of applications / compose files which can be deployed with [Komodo](https://komo.do).
 
 ## Apps
 
