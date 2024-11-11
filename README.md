@@ -1,6 +1,6 @@
 # Komodo Hub
 
-A collection of Github Repo source compose files which can be deployed with Komodo
+A collection of applications / compose files which can be deployed with Komodo.
 
 ## Apps
 
