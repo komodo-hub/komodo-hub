@@ -13,7 +13,9 @@ A collection of applications / compose files which can be deployed with [Komodo]
 - [**Gitea** - Git provider + more](https://github.com/komodo-hub/deploy-gitea)
 - [**Step CA** - Private online TLS certificate authority](https://github.com/komodo-hub/deploy-step-ca)
 
+### Alerting
+- [**Gotify Alerter** - Forward Komodo alerts to Gotify instance](https://github.com/FoxxMD/deploy-gotify-alerter)
+
 ### Logging
 - [**Grafana + Tempo + Loki** - Collect and view application logs](https://github.com/komodo-hub/deploy-grafana)
-- [**Vector** - Collect / parse / forward docker logs to Loki](https://github.com/komodo-hub/deploy-vector)
-- [**Vector Alert Server** - Forward Komodo alerts to Loki using custom Alerter](https://github.com/komodo-hub/deploy-vector-komodo-alert)
+- [**Vector** - Collect / parse / forward container logs to Loki](https://github.com/komodo-hub/deploy-vector)
