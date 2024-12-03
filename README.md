@@ -15,7 +15,7 @@ A collection of applications / compose files which can be deployed with [Komodo]
 
 ### Alerting
 - [**Gotify Alerter** - Forward Komodo alerts to Gotify instance](https://github.com/FoxxMD/deploy-gotify-alerter)
-- [**Ntfy Alerter**](https://github.com/FoxxMD/deploy-ntfy-alerter) 
+- [**Ntfy Alerter** - Forward Komodo alerts to ntfy](https://github.com/FoxxMD/deploy-ntfy-alerter) 
 
 ### Logging
 - [**Grafana + Tempo + Loki** - Collect and view application logs](https://github.com/komodo-hub/deploy-grafana)
